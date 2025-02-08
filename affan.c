@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Function prototypes
+//// Function prototypes
 void welcome(void);
 void bubble_sort(void);
 void insertion_sort(void);
